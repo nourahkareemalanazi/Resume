@@ -1,6 +1,6 @@
 ---
 # nourah alanazi
-Software and DevOps engineer, Cloud architect, Instructor.
+Software and DevOps engineer, Cloud architect.
 
 <div id="webaddress">
 <a href="nourah.alanazii@gmail.com">nourah.alanazii@gmail.com</a>
