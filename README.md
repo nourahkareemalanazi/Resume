@@ -3,7 +3,7 @@
 Software and DevOps engineer, Cloud architect, Instructor.
 
 <div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
+<a href="nourah.alanazii@gmail.com">chandradeoarya@gmail.com</a>
 | <a href="http://chandradeoarya.com">My Tech blog</a>
 </div>
 
